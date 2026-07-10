@@ -1,15 +1,15 @@
 # OpenAI & ChatGPT
-copilot.microsoft.com chatgpt.com
-copilot.microsoft.com openai.com
-copilot.microsoft.com oaistatic.com
-copilot.microsoft.com oaiusercontent.com
-copilot.microsoft.com chat.com
-copilot.microsoft.com sora.com
-copilot.microsoft.com oaistatsig.com
-copilot.microsoft.com chatgpt.livekit.cloud
-copilot.microsoft.com host.livekit.cloud
-copilot.microsoft.com turn.livekit.cloud
-copilot.microsoft.com openai.com.cdn.cloudflare.net
+0.0.0.0 chatgpt.com
+0.0.0.0 openai.com
+0.0.0.0 oaistatic.com
+0.0.0.0 oaiusercontent.com
+0.0.0.0 chat.com
+0.0.0.0 sora.com
+0.0.0.0 oaistatsig.com
+0.0.0.0 chatgpt.livekit.cloud
+0.0.0.0 host.livekit.cloud
+0.0.0.0 turn.livekit.cloud
+0.0.0.0 openai.com.cdn.cloudflare.net
 
 # Anthropic (Claude)
 0.0.0.0 claude.ai
